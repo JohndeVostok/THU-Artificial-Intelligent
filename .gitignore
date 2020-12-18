@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.json
+*.res
+*.pdf
+*.txt
+
+pinyin/res
+.gitignore
+*.so
+*.tar.gz
+.clang-format
