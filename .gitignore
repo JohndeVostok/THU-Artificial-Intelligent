@@ -138,3 +138,5 @@ pinyin/res
 *.so
 *.tar.gz
 .clang-format
+*.png
+*.csv

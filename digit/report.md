@@ -71,6 +71,8 @@ id: mazxhpc
 
 ![fig1](digit_result.png)
 
+两个模型均只提交1次.
+
 #### 2. MLP
 
 我们选择batchsize=256, learning rate = 0.01, 训练24个epoch后收敛.
